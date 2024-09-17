@@ -3,27 +3,27 @@ Welcome to the Car Price Prediction App! This tool provides accurate predictions
 
 Features
 User-Friendly Interface:
-A simple design allows easy input of car details like make, model, year, mileage, and condition.
+  A simple design allows easy input of car details like make, model, year, mileage, and condition.
 Machine Learning Models:
-Advanced algorithms predict car prices with high accuracy.
+  Advanced algorithms predict car prices with high accuracy.
 Real-Time Predictions:
-Instant price estimates based on input data for immediate feedback.
+  Instant price estimates based on input data for immediate feedback.
 Data Insights:
-Interactive visualizations to explore trends and factors influencing car prices.
+  Interactive visualizations to explore trends and factors influencing car prices.
 Live App
 You can try the app live here:
 🔗 Car Price Prediction App
-https://predictionapp-cyryx5uotzubjqm5rd6eat.streamlit.app/
+    https://predictionapp-cyryx5uotzubjqm5rd6eat.streamlit.app/
 
 How It Works
 Input Car Details:
-Enter details like make, model, year, mileage, and condition.
+  Enter details like make, model, year, mileage, and condition.
 Get Real-Time Price Predictions:
-The app uses a trained machine learning model to predict the car’s price instantly.
+  The app uses a trained machine learning model to predict the car’s price instantly.
 Explore Data Insights:
-Visualizations show trends in car prices based on various features.
+  Visualizations show trends in car prices based on various features.
 Model Details
-The app utilizes a machine learning model trained on a dataset of car sales, including:
+  The app utilizes a machine learning model trained on a dataset of car sales, including:
 
 Make: The car brand.
 Model: The specific model.
